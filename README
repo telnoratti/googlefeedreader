@@ -1,0 +1,3 @@
+googlereader is a fork of pyrfeed with updated and added functionality.
+
+googlefeedreader will read unread feeds from google and add them into a database.
